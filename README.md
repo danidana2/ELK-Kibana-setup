@@ -365,8 +365,8 @@ VirtualBox에서 각 우분투 가상 서버(myserver1, myserver2)에 브라우�
 
 ### [윈도우 브라우저에서 접속 테스트]
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/945b0653-0693-4eaf-bcfb-20ee661c5179" alt="Image 1" style="width: 49%;" />
-    <img src="https://github.com/user-attachments/assets/45572caa-60a9-4dff-a410-7f53e1ac51c2" alt="Image 2" style="width: 49%;" />
+    <img src="https://github.com/user-attachments/assets/d3d4c422-1dca-4377-8f38-e84b36315467" alt="Image 1" style="width: 49%;" />
+    <img src="https://github.com/user-attachments/assets/bb1730b2-68e8-4eca-bf66-15fb5d4d7763" alt="Image 2" style="width: 49%;" />
 </div>
 <br>
 
